@@ -25,7 +25,12 @@ http://www.buscabiografias.com/biografia/verDetalle/8221/Augusta%20Ada%20Byron%2
 
 
 
-Algoritmo divide y venceras
+Algoritmo divide y venceras (Google scholar)
 
 En las ciencias de la computación, el término divide y vencerás (DYV) hace referencia a uno de los más importantes paradigmas de diseño algorítmico. El método está basado en la resolución recursiva de un problema dividiéndolo en dos o más subproblemas de igual tipo o similar. El proceso continúa hasta que éstos llegan a ser lo suficientemente sencillos como para que se resuelvan directamente. Al final, las soluciones a cada uno de los subproblemas se combinan para dar una solución al problema original.
 
+Algoritmo divide y venceras (google books)
+
+Es resolver un problema dado de tamaño n (donde ¨n¨ pertenece a los números enteros positivos) de la forma siguiente:
+  1) Se resuelve el problema directamente para un valor pequeño de ¨n¨ en forma directa (esto proporciona una condicion inicial para la relación de recurrencia resultante).
+  2) Se descompone el problema general de tamaño ¨n¨ en ¨a¨ problemas pequeños, del mismo tipo y (aproximadamente) del mismo tamaño.
